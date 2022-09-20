@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshopee_app=self.webpackChunkshopee_app||[]).push([[11],{7011:function(e,s,l){l.r(s);var n=l(5429),c=l(1338),a=(l(2791),l(6871)),h=l(184);s.default=function(){return(0,h.jsxs)("div",{className:"flex flex-col min-h-screen overflow-hidden bg-whiteSmoke",children:[(0,h.jsx)(c.Z,{}),(0,h.jsx)("div",{className:"flex-1",children:(0,h.jsx)(a.j3,{})}),(0,h.jsx)(n.Z,{})]})}}}]);
+//# sourceMappingURL=11.5f0ef043.chunk.js.map
